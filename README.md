@@ -1,1 +1,1 @@
-# Simple page on React.
+# Simple page on React
